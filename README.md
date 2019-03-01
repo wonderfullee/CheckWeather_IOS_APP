@@ -4,5 +4,7 @@ The was design for user to check current weather information by either enter cit
 
 To Start
 1.Clone this repository onto your Mac OS device
+
 2.Open the repository directory, open the WeatherApp.xcworkspace with Xcode
+
 3.Click Run
